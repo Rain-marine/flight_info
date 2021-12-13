@@ -1,6 +1,6 @@
 # Analyzing a Flight Information Database
 
-This is just a sample code. Due to the original data's confidentiality, the original codes connot be shared publicly. 
+This is just a sample code. Due to the original data's confidentiality, the original codes connot be shared publicly. Hence this code doesn't contain much statistical operations.
 Each "Question" file includes the answer to one or more analitical questions, described thoroughly in "report.pdf" file in resources folder.
 
 ## Description
